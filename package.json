@@ -1,0 +1,29 @@
+{
+  "name": "picotts",
+  "version": "0.1.0",
+  "description": "PicoTTS wrapper. PicoTTS is being used by Android and it's extremely lightweight and fast yet produces very natural voices.",
+  "homepage": "https://github.com/luisivan/node-picotts",
+  "author": {
+    "name": "Luis Iván Cuende",
+    "email": "me@luisivan.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisivan/node-picotts.git"
+  },
+  "licenses": [
+    {
+      "type": "GPL-3.0+",
+      "url": "http://www.gnu.org/licenses/gpl.txt"
+    }
+  ],
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "keywords": [
+    "picotts",
+    "tts",
+    "text to speech",
+    "pico"
+  ]
+}
