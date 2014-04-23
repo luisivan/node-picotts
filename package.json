@@ -1,6 +1,6 @@
 {
   "name": "picotts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PicoTTS wrapper. PicoTTS is being used by Android and it's extremely lightweight and fast yet produces very natural voices.",
   "homepage": "https://github.com/luisivan/node-picotts",
   "author": {
