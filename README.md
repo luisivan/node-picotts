@@ -15,3 +15,11 @@ pico.say('Hey this is cool', 'en-US', function(err) {
 })
 
 ```
+
+## Install
+
+You need libttspico-utils to use the library
+
+```
+npm install picotts
+```
